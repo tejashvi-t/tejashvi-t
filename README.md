@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejashvi-
 - 👀 I’m interested in ...development
-- 🌱 I’m currently learning ..backend 
+- 🌱 I’m currently learning ..React js 
 - 💞️ I’m looking to collaborate on ...open sources of front end 
 - 📫 How to reach me ...instagram @_tejashvi_0001
 
