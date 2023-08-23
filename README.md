@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tejashvi-t](https://github.com/tejashvi-t)
 
-- 💬 Ask me about **React js , Javascript , ES6**
+- 💬 Ask me about **React js , Javascript , ES6 ,C++ , DSA **
 
 - 📫 How to reach me **tejashvi2812@gmail.com**
 
