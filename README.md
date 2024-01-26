@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Video Streaming App**
+- 🔭 I’m currently working on **  React Advance **
 
-- 🌱 I’m currently learning **React Advance and Backend**
+- 🌱 I’m currently learning **React and Backend**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
@@ -19,9 +19,8 @@
 
 - 📫 How to reach me **tejashvi2812@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PlvF63RGfik8Pd4KjkAQBFSvXeA-ltyW/view?usp=sharing](https://drive.google.com/file/d/1PlvF63RGfik8Pd4KjkAQBFSvXeA-ltyW/view?usp=sharing)
 
-- ⚡ Fun fact **Friendly Nature**
+- ⚡ Fun fact ** Never Trust anyone **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
